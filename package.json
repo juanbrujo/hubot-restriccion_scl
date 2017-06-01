@@ -1,0 +1,20 @@
+{
+  "name": "hubot-restriccion_scl",
+  "version": "0.0.1",
+  "description": "Muestra la restricción vehicular en Santiago y si hay alerta ambiental, pre-emergencia ó emergencia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "restricción",
+    "santiago",
+    "contaminación",
+    "chile"
+  ],
+  "author": "@juanbrujo",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
+}
